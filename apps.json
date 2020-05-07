@@ -3025,7 +3025,7 @@
             "websites",
             "wiki"
         ],
-        "url": "https://github.com/Plumf/yeswiki_ynh"
+        "url": "https://github.com/YunoHost-apps/yeswiki_ynh"
     },
     "yourls": {
         "branch": "master",
